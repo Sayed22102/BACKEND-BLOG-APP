@@ -1,1 +1,1 @@
-export const my_name ="Sayed"
+export const my_name ="Sayed ali nvtc"
